@@ -4,8 +4,10 @@
 
 ## About me
 
+<p style="text-align:justified;">
 I am a Computer engineering student at UDC (University of A Coruña, Spain) interested in programming (mainly with Python) and cybersecurity.
-
+</p>
+  
 ## My GitHub
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielfeitopin&theme=dark)](https://github.com/danielfeitopin)
