@@ -1,3 +1,4 @@
+<div id="content" align="center">
 # Hello World
 
 ## About me
@@ -79,3 +80,4 @@ My profile: <https://tryhackme.com/p/Informaticapau>
 
 <!-- LINKS -->
 [Try Hack Me]: https://tryhackme.com/
+</div>
