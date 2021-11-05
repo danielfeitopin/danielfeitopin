@@ -4,6 +4,10 @@
 
 I'm a Computer engineering student at UDC interested in programming (mainly with Python) and cybersecurity.
 
+## My GitHub
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielfeitopin)](https://github.com/danielfeitopin)
+
 ## My skills
 
 ### Operative Systems
