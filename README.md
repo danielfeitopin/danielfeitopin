@@ -4,7 +4,7 @@
 
 ## About me
 
-<p style="text-align:justified;">
+<p style="text-align:justify;">
 I am a Computer engineering student at UDC (University of A Coruña, Spain) interested in programming (mainly with Python) and cybersecurity.
 </p>
   
