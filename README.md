@@ -4,7 +4,7 @@
 
 ## About me
 
-I'm a Computer engineering student at UDC interested in programming (mainly with Python) and cybersecurity.
+I am a Computer engineering student at UDC (University of A Coruña, Spain) interested in programming (mainly with Python) and cybersecurity.
 
 ## My GitHub
 
