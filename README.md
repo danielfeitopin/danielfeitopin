@@ -6,7 +6,7 @@ I'm a Computer engineering student at UDC interested in programming (mainly with
 
 ## My GitHub
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielfeitopin)](https://github.com/danielfeitopin)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielfeitopin&theme=dark)](https://github.com/danielfeitopin)
 
 ## My skills
 
