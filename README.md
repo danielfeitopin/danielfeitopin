@@ -28,6 +28,13 @@ I am a Computer engineering student at UDC (University of A Coruña, Spain) inte
 
 <img src="https://tryhackme.com/img/badges/hashcracker.svg" style="width:40px;max-heigth:40px;" /><img src="https://tryhackme.com/img/badges/ohsint.svg" style="width:40px;max-heigth:40px;" /><img src="https://tryhackme.com/img/badges/linux.svg" style="width:40px;max-heigth:40px;" /><img src="https://tryhackme.com/img/badges/metasploit.svg" style="width:40px;max-heigth:40px;" /><img src="https://tryhackme.com/img/badges/ice.svg" style="width:40px;max-heigth:40px;" /><img src="https://tryhackme.com/img/badges/blue.svg" style="width:40px;max-heigth:40px;" /><img src="https://tryhackme.com/img/badges/webbed.svg" style="width:40px;max-heigth:40px;" /><img src="https://tryhackme.com/img/badges/linuxprivesc.svg" style="width:40px;max-heigth:40px;" /><img src="https://tryhackme.com/img/badges/owasptop10.svg" style="width:40px;max-heigth:40px;" /><img src="https://tryhackme.com/img/badges/howthewebworks.svg" style="width:40px;max-heigth:40px;" /><img src="https://tryhackme.com/img/badges/networkfundamentals.svg" style="width:40px;max-heigth:40px;" /><img src="https://tryhackme.com/img/badges/introtooffensivesecurity.svg" style="width:40px;max-heigth:40px;" /><img src="https://tryhackme.com/img/badges/streak7.svg" style="width:40px;max-heigth:40px;" /><img src="https://tryhackme.com/img/badges/streak30.svg" style="width:40px;max-heigth:40px;" />
 
+## Coding
+  
+### Codewars
+  
+<a href="https://www.codewars.com/users/informaticapau"><img src="https://www.codewars.com/users/informaticapau/badges/large"></a>
+  
+  
 <!-- LINKS -->
 [Try Hack Me]: https://tryhackme.com/
 </div>
