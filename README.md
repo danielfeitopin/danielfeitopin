@@ -15,72 +15,76 @@ I am a Computer engineering student at UDC (University of A Coruña, Spain) inte
 ## My skills
 
 <table style="text-align: center; font-weight: bold;">
+    <!-- TEMPLATE -->
+    <!--
+    <tr>
+        <td></td>
+        <td>
+            <a href="" target="_blank"><img src="https://skillicons.dev/icons?i=" alt=""/></a>
+        </td>
+    </tr> -->
     <tr>
         <td>Programming Languajes </td>
         <td>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="width:50px;max-height:50px;background-color:111111;"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="width:50px;max-height:50px;background-color:111111;"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="width:50px;max-height:50px;background-color:111111;"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="width:50px;max-height:50px;background-color:111111;"/>
+            <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python" alt="Python"/></a>
+            <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://skillicons.dev/icons?i=c" alt="C"/></a>
+            <a href="https://www.java.com/" target="_blank"><img src="https://skillicons.dev/icons?i=java" alt="Java"/></a>
+            <a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript"/></a>
         </td>
     </tr>
     <tr>
         <td>Web Design</td>
         <td>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" style="width:50px;max-height:50px;background-color:eeeeee;"/>  
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" style="width:50px;max-height:50px;background-color:eeeeee;"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="width:50px;max-height:50px;background-color:111111;"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="width:50px;max-height:50px;background-color:111111;"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" style="width:50px;max-height:50px;background-color:eeeeee;"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" style="width:50px;max-height:50px;background-color:eeeeee;"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" style="width:50px;max-height:50px;background-color:eeeeee;"/>
+            <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img src="https://skillicons.dev/icons?i=html" alt="HTML5"/></a>
+            <a href="https://en.wikipedia.org/wiki/CSS#CSS_3" target="_blank"><img src="https://skillicons.dev/icons?i=css" alt="CSS3"/></a>
+            <a href="https://sass-lang.com/" target="_blank"><img src="https://skillicons.dev/icons?i=sass" alt="SASS"/></a>
+            <a href="https://jquery.com/" target="_blank"><img src="https://skillicons.dev/icons?i=jquery" alt="JQuery"/></a>
+            <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://skillicons.dev/icons?i=flask" alt="Flask"/></a>
+            <a href="https://www.djangoproject.com/" target="_blank"><img src="https://skillicons.dev/icons?i=django" alt="Django"/></a>
         </td>
     </tr>
     <tr>
         <td>Data</td>
         <td>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" style="width:50px;max-height:50px;background-color:eeeeee;"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" style="width:50px;max-height:50px;background-color:eeeeee;"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" style="width:50px;max-height:50px;background-color:eeeeee;"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" style="width:50px;max-height:50px;background-color:eeeeee;"/>
+            <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"/></a>
+            <a href="https://www.sqlite.org/index.html" target="_blank"><img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite"/></a>
+            <a href="https://www.mathworks.com/products/matlab.html" target="_blank"><img src="https://skillicons.dev/icons?i=matlab" alt="MatLab"/></a>
+            <a href="https://www.r-project.org/" target="_blank"><img src="https://skillicons.dev/icons?i=r" alt="R"/></a>
         </td>
     </tr>
     <tr>
         <td>DevOps</td>
         <td>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" style="width:50px;max-height:50px;background-color:111111;"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" style="width:50px;max-height:50px;background-color:eeeeee;"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" style="width:50px;max-height:50px;background-color:eeeeee;"/>
+            <a href="https://www.ansible.com/" target="_blank"><img src="https://skillicons.dev/icons?i=ansible" alt="Ansible"/></a>
+            <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" alt="Docker"/></a>
         </td>
     </tr>
     <tr>
-        <td>Operating Systems</td>
+        <td>Version Control</td>
         <td>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" style="width:50px;max-height:50px;background-color:111111;"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="width:50px;max-height:50px;background-color:eeeeee;" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original-wordmark.svg" style="width:50px;max-height:50px;background-color:eeeeee;"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" style="width:50px;max-height:50px;background-color:111111;"/>
+            <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" alt="Git"/></a>
+            <a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="GitHub"/></a>
+            <a href="https://about.gitlab.com/" target="_blank"><img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab"/></a>
         </td>
     </tr>
     <tr>
-        <td>Version control</td>
+        <td>IDEs & Editors</td>
         <td>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" style="width:50px;max-height:50px;background-color:eeeeee;"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="width:50px;max-height:50px;background-color:eeeeee;"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" style="width:50px;max-height:50px;background-color:eeeeee;"/>
+            <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code"/></a>
+            <a href="https://www.jetbrains.com/idea/" target="_blank"><img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA"/></a>
+            <a href="https://www.vim.org/" target="_blank"><img src="https://skillicons.dev/icons?i=vim" alt="VIM"/></a>
         </td>
     </tr>
     <tr>
-        <td>Tools</td>
+        <td>Other Tools</td>
         <td>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="width:50px;max-height:50px;background-color:111111;"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" style="width:50px;max-height:50px;background-color:eeeeee;"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" style="width:50px;max-height:50px;background-color:eeeeee;"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" style="width:50px;max-height:50px;background-color:eeeeee;"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" style="width:50px;max-height:50px;background-color:eeeeee;"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" style="width:50px;max-height:50px;background-color:111111;"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original-wordmark.svg" style="width:50px;max-height:50px;background-color:eeeeee;"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" style="width:50px;max-height:50px;background-color:eeeeee;"/>
+            <a href="https://www.linux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux" alt="Linux
+            "/></a>
+            <a href="https://ba-sh.com/" target="_blank"><img src="https://skillicons.dev/icons?i=bash" alt="Bash"/></a>
+            <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank"><img src="https://skillicons.dev/icons?i=powershell" alt="PowerShell"/></a>
+            <a href="https://daringfireball.net/projects/markdown/" target="_blank"><img src="https://skillicons.dev/icons?i=md" alt="Markdown"/></a>
+            <a href="https://www.latex-project.org/" target="_blank"><img src="https://skillicons.dev/icons?i=latex" alt="LaTeX"/></a>
+            <a href="https://www.postman.com/" target="_blank"><img src="https://skillicons.dev/icons?i=postman" alt="Postman"/></a>
         </td>
     </tr>
 </table>
