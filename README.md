@@ -14,18 +14,18 @@ I am a Computer engineering student at UDC (University of A Coruña, Spain) inte
 
 ## My skills
 
-<table style="text-align: center; font-weight: bold;">
+<table>
     <!-- TEMPLATE -->
     <!--
     <tr>
-        <td></td>
-        <td>
+        <td align="center"></td>
+        <td align="center">
             <a href="" target="_blank"><img src="https://skillicons.dev/icons?i=" alt=""/></a>
         </td>
     </tr> -->
     <tr>
-        <td>Programming Languajes </td>
-        <td>
+        <td align="center">Programming Languajes</td>
+        <td align="center">
             <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python" alt="Python"/></a>
             <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://skillicons.dev/icons?i=c" alt="C"/></a>
             <a href="https://www.java.com/" target="_blank"><img src="https://skillicons.dev/icons?i=java" alt="Java"/></a>
@@ -33,8 +33,8 @@ I am a Computer engineering student at UDC (University of A Coruña, Spain) inte
         </td>
     </tr>
     <tr>
-        <td>Web Design</td>
-        <td>
+        <td align="center">Web Design</td>
+        <td align="center">
             <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img src="https://skillicons.dev/icons?i=html" alt="HTML5"/></a>
             <a href="https://en.wikipedia.org/wiki/CSS#CSS_3" target="_blank"><img src="https://skillicons.dev/icons?i=css" alt="CSS3"/></a>
             <a href="https://sass-lang.com/" target="_blank"><img src="https://skillicons.dev/icons?i=sass" alt="SASS"/></a>
@@ -44,8 +44,8 @@ I am a Computer engineering student at UDC (University of A Coruña, Spain) inte
         </td>
     </tr>
     <tr>
-        <td>Data</td>
-        <td>
+        <td align="center">Data</td>
+        <td align="center">
             <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"/></a>
             <a href="https://www.sqlite.org/index.html" target="_blank"><img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite"/></a>
             <a href="https://www.mathworks.com/products/matlab.html" target="_blank"><img src="https://skillicons.dev/icons?i=matlab" alt="MatLab"/></a>
@@ -53,31 +53,31 @@ I am a Computer engineering student at UDC (University of A Coruña, Spain) inte
         </td>
     </tr>
     <tr>
-        <td>DevOps</td>
-        <td>
+        <td align="center">DevOps</td>
+        <td align="center">
             <a href="https://www.ansible.com/" target="_blank"><img src="https://skillicons.dev/icons?i=ansible" alt="Ansible"/></a>
             <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" alt="Docker"/></a>
         </td>
     </tr>
     <tr>
-        <td>Version Control</td>
-        <td>
+        <td align="center">Version Control</td>
+        <td align="center">
             <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" alt="Git"/></a>
             <a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="GitHub"/></a>
             <a href="https://about.gitlab.com/" target="_blank"><img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab"/></a>
         </td>
     </tr>
     <tr>
-        <td>IDEs & Editors</td>
-        <td>
+        <td align="center">IDEs & Editors</td>
+        <td align="center">
             <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code"/></a>
             <a href="https://www.jetbrains.com/idea/" target="_blank"><img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA"/></a>
             <a href="https://www.vim.org/" target="_blank"><img src="https://skillicons.dev/icons?i=vim" alt="VIM"/></a>
         </td>
     </tr>
     <tr>
-        <td>Other Tools</td>
-        <td>
+        <td align="center">Other Tools</td>
+        <td align="center">
             <a href="https://www.linux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux" alt="Linux
             "/></a>
             <a href="https://ba-sh.com/" target="_blank"><img src="https://skillicons.dev/icons?i=bash" alt="Bash"/></a>
