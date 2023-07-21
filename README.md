@@ -8,9 +8,10 @@
 I am a Computer engineering student at UDC (University of A Coruña, Spain) interested in programming (mainly with Python) and cybersecurity.
 </p>
 
-## My GitHub
+## My GitHub stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielfeitopin&theme=dark)](https://github.com/danielfeitopin)
+| [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=danielfeitopin&theme=dark\&show_icons=true\&rank_icon=github)][gh_profile] | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielfeitopin&layout=compact&theme=dark)][gh_profile] |
+|:--:|:--:|
 
 ## My skills
 
@@ -107,5 +108,6 @@ I am a Computer engineering student at UDC (University of A Coruña, Spain) inte
   
   
 <!-- LINKS -->
+[gh_profile]: <https://github.com/danielfeitopin>
 [Try Hack Me]: https://tryhackme.com/
 </div>
