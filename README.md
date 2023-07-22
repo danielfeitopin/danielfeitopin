@@ -90,24 +90,6 @@ I am a Computer engineering student at UDC (University of A Coruña, Spain) inte
     </tr>
 </table>
 
-## Cybersecurity
-
-### Try Hack Me
-
-[<img src="https://assets.tryhackme.com/img/logo/tryhackme_logo_full.svg" style="width:80px;max-height:80px;" />][Try Hack Me]
-
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/Informaticapau.png)](https://tryhackme.com/p/Informaticapau)
-
-<img src="https://tryhackme.com/img/badges/hashcracker.svg" style="width:40px;max-heigth:40px;" /><img src="https://tryhackme.com/img/badges/ohsint.svg" style="width:40px;max-heigth:40px;" /><img src="https://tryhackme.com/img/badges/linux.svg" style="width:40px;max-heigth:40px;" /><img src="https://tryhackme.com/img/badges/metasploit.svg" style="width:40px;max-heigth:40px;" /><img src="https://tryhackme.com/img/badges/ice.svg" style="width:40px;max-heigth:40px;" /><img src="https://tryhackme.com/img/badges/blue.svg" style="width:40px;max-heigth:40px;" /><img src="https://tryhackme.com/img/badges/webbed.svg" style="width:40px;max-heigth:40px;" /><img src="https://tryhackme.com/img/badges/linuxprivesc.svg" style="width:40px;max-heigth:40px;" /><img src="https://tryhackme.com/img/badges/owasptop10.svg" style="width:40px;max-heigth:40px;" /><img src="https://tryhackme.com/img/badges/howthewebworks.svg" style="width:40px;max-heigth:40px;" /><img src="https://tryhackme.com/img/badges/networkfundamentals.svg" style="width:40px;max-heigth:40px;" /><img src="https://tryhackme.com/img/badges/introtooffensivesecurity.svg" style="width:40px;max-heigth:40px;" /><img src="https://tryhackme.com/img/badges/streak7.svg" style="width:40px;max-heigth:40px;" /><img src="https://tryhackme.com/img/badges/streak30.svg" style="width:40px;max-heigth:40px;" />
-
-## Coding
-  
-### Codewars
-  
-<a href="https://www.codewars.com/users/informaticapau"><img src="https://www.codewars.com/users/informaticapau/badges/large"></a>
-  
-  
 <!-- LINKS -->
 [gh_profile]: <https://github.com/danielfeitopin>
-[Try Hack Me]: https://tryhackme.com/
 </div>
