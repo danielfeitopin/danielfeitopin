@@ -2,6 +2,9 @@
 
 # Hello World
 
+<!-- https://github.com/denvercoder1/readme-typing-svg -->
+[![Welcome to my GitHub profile!](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1500&pause=1000&color=2FF716&center=true&vCenter=true&repeat=false&width=435&lines=Welcome+to+my+GitHub+profile!)][gh_profile]
+
 ## About me
 
 <p align="justify">
@@ -10,6 +13,7 @@ I am a Computer engineering student at UDC (University of A Coruña, Spain) inte
 
 ## My GitHub stats
 
+<!-- https://github.com/anuraghazra/github-readme-stats -->
 | [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=danielfeitopin&theme=dark\&show_icons=true\&rank_icon=github)][gh_profile] | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielfeitopin&layout=compact&theme=dark)][gh_profile] |
 |:--:|:--:|
 
