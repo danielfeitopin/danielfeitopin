@@ -130,7 +130,7 @@ I am a Information Technology graduate at UDC (University of A Coruña, Spain) i
         </td>
     </tr>
     <tr>
-        <td align="center">Operative Systems</td>
+        <td align="center">Operating Systems</td>
         <td align="center">
             <a title="Debian" href="https://www.debian.org/" target="_blank">
                 <img src="https://img.shields.io/badge/debian-%23A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian"/>
