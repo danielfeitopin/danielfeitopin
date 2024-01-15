@@ -88,6 +88,23 @@ I am a Information Technology graduate at UDC (University of A Coruña, Spain) i
         </td>
     </tr>
     <tr>
+        <td align="center">Operating Systems</td>
+        <td align="center">
+            <a title="Debian" href="https://www.debian.org/" target="_blank">
+                <img src="https://img.shields.io/badge/debian-%23A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian"/>
+            </a>
+            <a title="Ubuntu" href="https://ubuntu.com/" target="_blank">
+                <img src="https://img.shields.io/badge/ubuntu-%23E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
+            </a>
+            <a title="Kali Linux" href="https://www.kali.org/" target="_blank">
+                <img src="https://img.shields.io/badge/kali%20linux-%23557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
+            </a>
+            <a title="Windows" href="https://www.microsoft.com/es-es/windows" target="_blank">
+                <img src="https://img.shields.io/badge/windows-%230078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
+            </a>
+        </td>
+    </tr>
+    <tr>
         <td align="center">DevOps</td>
         <td align="center">
             <a title="Ansible" href="https://www.ansible.com/" target="_blank">
@@ -95,6 +112,20 @@ I am a Information Technology graduate at UDC (University of A Coruña, Spain) i
             </a>
             <a title="Docker" href="https://www.docker.com/" target="_blank">
                 <img src="https://img.shields.io/badge/docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+            </a>
+            <a title="Vagrant" href="https://www.vagrantup.com/" target="_blank">
+                <img src="https://img.shields.io/badge/vagrant-%231868F2?style=for-the-badge&logo=vagrant&logoColor=white" alt="Vagrant"/>
+            </a>
+        </td>
+    </tr>
+        <tr>
+        <td align="center">Virtualization</td>
+        <td align="center">
+            <a title="VirtualBox" href="https://www.virtualbox.org/" target="_blank">
+                <img src="https://img.shields.io/badge/virtualbox-%23183A61?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox"/>
+            </a>
+            <a title="VMware" href="https://www.vmware.com/" target="_blank">
+                <img src="https://img.shields.io/badge/vmware-%23607078?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware"/>
             </a>
         </td>
     </tr>
@@ -126,23 +157,6 @@ I am a Information Technology graduate at UDC (University of A Coruña, Spain) i
             </a>
             <a title="Notepad++" href="https://notepad-plus-plus.org/" target="_blank">
                 <img src="https://img.shields.io/badge/notepad%2B%2B-%2390E59A?style=for-the-badge&logo=notepadplusplus&logoColor=black" alt="Notepad++">
-            </a>
-        </td>
-    </tr>
-    <tr>
-        <td align="center">Operating Systems</td>
-        <td align="center">
-            <a title="Debian" href="https://www.debian.org/" target="_blank">
-                <img src="https://img.shields.io/badge/debian-%23A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian"/>
-            </a>
-            <a title="Ubuntu" href="https://ubuntu.com/" target="_blank">
-                <img src="https://img.shields.io/badge/ubuntu-%23E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
-            </a>
-            <a title="Kali Linux" target="_blank">
-                <img src="https://img.shields.io/badge/kali%20linux-%23557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
-            </a>
-            <a title="Windows" target="_blank">
-                <img src="https://img.shields.io/badge/windows-%230078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
             </a>
         </td>
     </tr>
