@@ -8,7 +8,7 @@
 ## About me
 
 <p align="justify">
-I am a Information Technology graduate at UDC (University of A Coruña, Spain) interested in programming (mainly with Python) and cybersecurity. Currently pursuing a master's degree in cybersecurity.
+I am an Information Technology graduate at UDC (University of A Coruña, Spain) interested in programming (mainly with Python) and cybersecurity. Currently pursuing a master's degree in cybersecurity.
 </p>
 
 ## My GitHub stats
