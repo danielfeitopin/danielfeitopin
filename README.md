@@ -54,7 +54,7 @@ I am an Information Technology graduate at UDC (University of A Coruña, Spain) 
                 <img src="https://img.shields.io/badge/html5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
             </a>
             <a title="CSS3" href="https://en.wikipedia.org/wiki/CSS#CSS_3" target="_blank">
-                <img src="https://img.shields.io/badge/css3-%231572B6?style=for-the-badge&logo=html5&logoColor=white" alt="CSS3"/>
+                <img src="https://img.shields.io/badge/css3-%231572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
             </a>
             <a title="SASS" href="https://sass-lang.com/" target="_blank">
                 <img src="https://img.shields.io/badge/sass-%23CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS"/>
