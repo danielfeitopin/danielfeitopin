@@ -31,7 +31,7 @@ I am an Information Technology graduate at UDC (University of A Coruña, Spain) 
         </td>
     </tr> -->
     <tr>
-        <td align="center">Programming Languajes</td>
+        <td align="center">Programming Languages</td>
         <td align="center">
             <a title="Python" href="https://www.python.org/" target="_blank">
                 <img src="https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
