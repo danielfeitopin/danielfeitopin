@@ -14,7 +14,7 @@ I am an Information Technology graduate at UDC (University of A Coruña, Spain) 
 ## My GitHub stats
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-| [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=danielfeitopin&theme=dark\&show_icons=true\&rank_icon=github)][gh_profile] | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielfeitopin&layout=compact&theme=dark&langs_count=8&hide=Jupyter%20Notebook&exclude_repo=MUNICS-SAPP-P1,MUNICS-SAPP-P2,MUNICS-BC-Practica1)][gh_profile] |
+| [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=danielfeitopin&theme=dark\&show_icons=true\&rank_icon=github)][gh_profile] | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielfeitopin&layout=compact&theme=dark&langs_count=8&hide=Jupyter%20Notebook&exclude_repo=MUNICS-SAPP-P1,MUNICS-SAPP-P2,MUNICS-BC-Practica1,manual-supervivencia-fic)][gh_profile] |
 |:--:|:--:|
 
 ## My skills
